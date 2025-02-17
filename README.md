@@ -1,4 +1,4 @@
-# Wiz Scanner Plugin 
+# Wiz Scanner Plugin !
 
 ## Introduction
 
